@@ -1,4 +1,6 @@
 # tutorial-github-G12
 Repositorio ejemplo para la clase
 
-texto de primer commit de github
+Texto de primer commit con Github
+
+Texto para segundo commit con Github
