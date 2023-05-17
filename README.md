@@ -1,2 +1,4 @@
 # tutorial-github-G12
-repositorrio ejemplo para la clase
+Repositorio ejemplo para la clase
+
+texto de primer commit de github
