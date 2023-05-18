@@ -8,3 +8,5 @@ Texto para segundo commit con Github
 Texto para tercer commit con git desde terminal, no con github desktop
 
 Prueba de Token 2
+
+Este texto corresponde al control de versiones con VSC
